@@ -1,5 +1,5 @@
 #include "mbed.h"
- 
+/*ej1
 /*
    Maquina sencilla de dos estados. Estado ledApagado y estado ledEncendido.
    El led se tiene que encender durante dos segundos cuando se pulse 
